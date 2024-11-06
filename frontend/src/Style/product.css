@@ -1,0 +1,148 @@
+.btn-right{
+    text-align: right;
+}
+.ser-right{
+    margin-left: 85.3%;
+}
+#backbtn{
+    padding-top: 500px;
+}
+.container {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    max-height: 300px;
+    object-fit: cover;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  .position-relative {
+    position: relative;
+  }
+  
+  .position-absolute {
+    position: absolute;
+  }
+  
+  .top-0 {
+    top: 0;
+  }
+  
+  .start-100 {
+    left: 100%;
+  }
+  
+  .translate-middle {
+    transform: translate(-50%, -50%);
+  }
+  
+  .badge {
+    padding: 0.5em;
+    font-size: 0.75em;
+    border-radius: 1rem;
+  }
+  .Orderhst{
+    margin-left: 68%;
+  }
+  .Userposition{
+    /* margin-left: 72%; */
+    color: white;
+    font-size: 24px;
+  }
+  .username{
+    color: white;
+  }
+
+.product-list {
+  padding: 20px;
+}
+
+.product-item {
+  position: relative;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+.product-item.sold-out {
+  opacity: 0.5;
+}
+
+.product-item.sold-out::before {
+  content: "Sold Out";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.small-card {
+  max-height: 150px;
+  margin-bottom: 10px;
+}
+
+.small-card-img {
+  max-height: 100px;
+  object-fit: cover;
+}
+
+.card-title, .card-text {
+  margin-bottom: 5px;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
+.Home{
+  padding-left: 10px;
+}
+
+.sold-out-text {
+  background-color: lightgrey;
+  font-weight: bold;
+  padding: 0.5em;
+  border-radius: 0.25em;
+  margin-right: 190px;
+}
+
+.logo{
+  height: 35px;
+  width: 40px;
+}
+.sold-out-text {
+  background-color: lightgrey;
+  font-weight: bold;
+  padding: 0.5em;
+  border-radius: 0.25em;
+  margin-right: 190px;
+}
+.Ratingstar{
+  color: gold;
+  margin-bottom: 4px;
+}
+.Rating-text{
+  margin-right: 230px;
+  color: white;
+  padding-left: 4px;
+  border-radius: 8px;
+}
+
